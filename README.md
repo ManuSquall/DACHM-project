@@ -1,7 +1,20 @@
+<!-- Repository git : https://github.com/ManuSquall/DACHM-project -->
 # DACHM project
 
-This project was coded for my final exam in C language
+<!-- Description -->
 
+## Context
+<!-- Why am i making this -->
+This project was coded for our first year final exam in C language
+
+## Tools used
+<!-- Packages, external librairies, IDE, utilitaries used -->
+* [VS Code](https://code.visualstudio.com/)
+* [Code::Blocks](https://www.codeblocks.org/)
+
+
+## How does it work
+<!-- What we have to do to make it work/run -->
 ### the main objectives of this project are:
 
 * to create new phone operator
@@ -21,7 +34,27 @@ ___________________________________________________
 
 ___________________________________________________
 
-* permit other features related to sim
+* permit other features related to a sim card
 * and quit! :-)
 
-some fonctionnalities aren't implemented yet
+## Output:
+
+<!-- What the result is supposed to be -->
+
+
+
+## About Authors / Contributors
+
+[ManuSquall](https://manusquall.azurewebsites.net/)
+
+## License
+
+This project is licensed under the [CC0 1.0 Universal](https://creativecommons.org/) Creative Commons License.
+
+
+## Acknowledgments
+
+<!-- inspiration, research stuff -->
+
+
+# Made with purple 💜 lust :-)
