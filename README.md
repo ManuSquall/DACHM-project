@@ -2,6 +2,7 @@
 # DACHM project
 
 <!-- Description -->
+![output2](/readme/output3.png)
 
 ## Context
 <!-- Why am i making this -->
@@ -19,7 +20,7 @@ This project was coded for our first year final exam in C language
 
 * to create new phone operator
 * to list all phone operator created
-* to show caracteristic of each phone operator
+* to show characteristics of each phone operator
 * to update/ modify each phone operator
 * to add index for any operator
 ___________________________________________________
@@ -40,7 +41,11 @@ ___________________________________________________
 ## Output:
 
 <!-- What the result is supposed to be -->
+![output1](/readme/output1.png)
 
+![output2](/readme/output2.png)
+
+![output3](/readme/output3.png)
 
 
 ## About Authors / Contributors
