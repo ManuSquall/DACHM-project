@@ -46,6 +46,7 @@ ___________________________________________________
 ## About Authors / Contributors
 
 [ManuSquall](https://manusquall.azurewebsites.net/)
+[Vadim](https://github.com/Antasene98)
 
 ## License
 
